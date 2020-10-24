@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/1bkAdyq.jpg" width="30px">
+
 ### Hi there 👋
 
 <!--
