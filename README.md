@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/HEeHZlj.png">
+<img src="https://i.imgur.com/eXEo6x9.png">
 
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=namdlog&color=blue&style=flat)
